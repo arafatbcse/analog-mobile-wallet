@@ -26,5 +26,4 @@ Student ID: 2403028
    ```bash
    git clone https://github.com/arafatbcse/analog-mobile-wallet
 
-![project2](https://github.com/user-attachments/assets/02c52b6c-749c-4d90-b85b-a371f9216dae)
 
