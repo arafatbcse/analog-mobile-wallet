@@ -3,7 +3,7 @@
 Welcome to **MyCash** — a simple C++ console application that simulates basic mobile banking functionalities like registration, login, send money, cash in/out, bill payments, and transaction history.
 
 ## Author
-**Arafat Sultan**  
+**Rahmat Ali**  
 Student ID: 2403028
 
 ---
